@@ -1,0 +1,689 @@
+@media(min-width:350px){
+    .p4{
+        width:100%;
+        height:900px;
+        overflow-y: auto;
+        /*cart button*/
+        .back{
+            background-color: antiquewhite;
+            margin-left: 75%;
+            width:80px;
+            border-radius: 10px;
+            .count{
+                margin-left: 5px;
+                width:30px;
+                text-align: center;
+                font-size:25px;
+                border-radius: 10px;
+                
+            }
+            .movetop{
+             
+                margin-top: -35px;
+                .cart{
+                 
+                    border:none;
+                    background-color:transparent;
+                    height:30px;
+                    border-radius: 5px;
+                    font-size: 23px;
+                    .icon1{
+                        font-size: 20px;
+                       
+                    }
+                }
+            }
+        }
+        .iteam{
+            display:flex;
+            margin-left: 3%;
+            margin-top: 50px;
+            gap:7%;
+            .img6{
+                border-radius:50%;
+                width:70px;
+                height:70px;
+            }
+            h2{
+                margin-left: 10%;
+                font-size: 15px;
+            }
+        }
+
+        /*coffee menu*/
+        .coffee{
+            margin-top: 5%;
+            margin-left: 10%;
+            width:80%;
+            margin-top: 10px;
+        
+            .c1{
+                width:100%;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                margin-top: 10%;
+                height:340px;
+                border-radius: 20px;
+                background-color: rgb(249, 231, 212);
+
+                .iteam1img{
+                    margin-left: 30%;
+                    width:120px;
+                    height:120px;
+                    border-radius: 50%;
+                }
+                h2{
+                    text-align: center;
+                }
+                .costbutton{
+                    display:flex;
+                    margin-left: 10%;
+                   
+                    button{
+                        margin: 10% 80%;
+                        height:40px;
+                        width:100px;
+                        border:none;
+                        border-radius: 10px;
+                        background-color: rgb(4, 72, 4);
+                        color:white;
+
+                    }
+                    
+                }
+               
+            }
+        }
+        .carts{
+            
+            
+            width:80%;
+            margin-top: 100px;
+            margin-left: 12%;
+            .heading{
+                text-align: center;
+            }
+            .empty{
+                padding-top: 30px;
+                text-align: center;
+            }
+            
+            /*total container*/
+            .total{margin-top: 20px;
+            
+                width:100%;
+               
+                /*left side box*/
+                .cartdata{
+               
+                    
+                    gap:10px;
+                    border-radius: 10px;
+                    background-color: antiquewhite;
+                    width:100%;
+                    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                    .cartimg{
+                        margin-top: 10px;
+                        width:100px;
+                        height:100px;
+                        border-radius: 50%;
+                        margin-left: 35%;
+                    }
+                    .iteamname{
+                         text-align: center;
+                    }
+                    
+                    p{
+                        width:90%;
+                        text-align: center;
+                    }
+                    .plus{
+                        background-color: antiquewhite;
+                        border-radius:50%;
+                        margin-left: 10px;
+                    }
+                    span{
+                        padding-left: 10px;
+                    }
+                    .orbt{
+                        height:40px;
+                        background-color: rgb(41, 70, 41);
+                        color:white;
+                        width:100%;
+                        border:none;
+                        border-radius: 5px;
+                    }
+    
+                }           
+            }
+
+            
+        }
+        
+    }
+}
+@media(min-width:500px){
+    .p4{
+        width:100%;
+        height:2500px;
+        .iteam{
+            display:flex;
+            margin-left:3%;
+            margin-top: 50px;
+            gap:10%;
+            .img6{
+                border-radius:50%;
+                width:100px;
+                height:100px;
+            }
+        }
+
+        
+
+        /*coffee menu*/
+        .coffee{
+            margin-top: 5%;
+            margin-left: 10%;
+            width:80%;
+            margin-top: 10px;
+        
+            .c1{
+                width:100%;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                margin-top: 10%;
+                height:340px;
+                border-radius: 20px;
+                background-color: rgb(249, 231, 212);
+
+                .iteam1img{
+                    margin-left: 40%;
+                    width:120px;
+                    height:120px;
+                    border-radius: 50%;
+                }
+                h2{
+                    text-align: center;
+                }
+                p{
+                    margin-left: 28%;
+                    width:50%;
+                }
+                .costbutton{
+                    display:flex;
+                    margin-left: 30%;
+                   
+                    width:50%;
+                    button{
+                        margin: 10% 100%;
+                        width:100px;
+                        height:35px;
+                        border:none;
+                        border-radius: 10px;
+                        background-color: rgb(4, 72, 4);
+                        color:white;
+
+                    }
+                }
+               
+            }
+        }
+        
+    }
+}
+@media(min-width:768px){
+    .p4{
+        width:100%;
+        height:1200px;
+        overflow-y: auto;
+        .iteam{
+            display:flex;
+            margin-left: 13%;
+            margin-top: 50px;
+            gap:10%;
+            .img6{
+                border-radius:50%;
+                width:100px;
+                height:100px;
+            }
+        }
+
+        .back{
+            background-color: antiquewhite;
+            margin-left: 85%;
+            width:80px;
+            border-radius: 10px;
+            .count{
+                margin-left: 5px;
+                width:30px;
+                text-align: center;
+                font-size:25px;
+                border-radius: 10px;
+                
+            }
+            .movetop{
+             
+                margin-top: -35px;
+                .cart{
+                 
+                    border:none;
+                    background-color:transparent;
+                    height:30px;
+                    border-radius: 5px;
+                    font-size: 23px;
+                    .icon1{
+                        font-size: 20px;
+                       
+                    }
+                }
+            }
+        }
+        /*coffee menu*/
+        .coffee{
+            margin-top: 5%;
+            margin-left: 10%;
+            width:80%;
+            margin-top: 10px;
+        
+            .c1{
+                width:100%;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                margin-top: 10%;
+                height:340px;
+                border-radius: 20px;
+                background-color: rgb(249, 231, 212);
+
+                .iteam1img{
+                    margin-left: 40%;
+                    width:120px;
+                    height:120px;
+                    border-radius: 50%;
+                }
+                h2{
+                    text-align: center;
+                }
+                p{
+                    margin-left: 28%;
+                    width:50%;
+                }
+                .costbutton{
+                    display:flex;
+                    margin-left: 30%;
+                   
+                    width:50%;
+                    button{
+                        margin: 10% 100%;
+                        width:100px;
+                        height:35px;
+                        border:none;
+                        border-radius: 10px;
+                        background-color: rgb(4, 72, 4);
+                        color:white;
+
+                    }
+                }
+               
+            }
+        }
+        .carts{
+            
+            
+            width:80%;
+            margin-top: 100px;
+            margin-left: 12%;
+            .heading{
+                text-align: center;
+            }
+            .empty{
+                text-align: center;
+            }
+            
+            /*total container*/
+            .total{margin-top: 20px;
+            
+                width:100%;
+               
+                /*left side box*/
+                .cartdata{
+                    display:flex;
+                    
+                    gap:50px;
+                    border-radius: 10px;
+                    background-color: antiquewhite;
+                    width:100%;
+                    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                    .cartimg{
+                        width:100px;
+                        height:100px;
+                        border-radius: 50%;
+                        padding: 50px;
+                    }
+                    
+                    p{
+                        width:80%;
+                    }
+                    .plus{
+                        background-color: antiquewhite;
+                        border-radius:50%;
+                        margin-left: 10px;
+                    }
+                    span{
+                        padding-left: 10px;
+                    }
+                    .orbt{
+                        height:30px;
+                        width:200px;
+                        margin-left: 20%;
+                        background-color: rgb(41, 70, 41);
+                        color:white;
+                        border:none;
+                        border-radius: 5px;
+                    }
+                    
+
+                }    
+            }
+        }
+    }
+}
+@media(min-width:992px){
+    .p4{
+        width:100%;
+        height:1250px;
+        .iteam{
+            display:flex;
+            margin-left: 25%;
+            margin-top: 50px;
+            gap:10%;
+            .img6{
+                border-radius:50%;
+                width:100px;
+                height:100px;
+            }
+            .c1{
+                width:100%;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                margin-top: 10%;
+                height:440px;
+                border-radius: 20px;
+                background-color: rgb(249, 231, 212);
+            
+                .iteam1img{
+                    margin-left: 40%;
+                    width:120px;
+                    height:120px;
+                    border-radius: 50%;
+                }
+                h2{
+                    text-align: center;
+                }
+                p{
+                    margin-left: 28%;
+                    width:50%;
+                }
+                .costbutton{
+                    display:flex;
+                    margin-left: 30%;
+                   
+                    width:50%;
+                    button{
+                        margin: 10% 100%;
+                        width:100px;
+                        height:35px;
+                        border:none;
+                        border-radius: 10px;
+                        background-color: rgb(4, 72, 4);
+                        color:white;
+
+                    }
+                }
+               
+            }
+        }
+        
+    }
+}
+@media(min-width:1200px){
+    .p4{
+        width:100%;
+        height:850px;
+        overflow-y: auto;
+        /*all iteams*/
+        /*cart button*/
+        .back{
+            background-color: antiquewhite;
+            margin-left: 90%;
+            width:120px;
+            border-radius: 10px;
+            .count{
+                margin-left: 10px;
+                width:30px;
+                text-align: center;
+                font-size:25px;
+                border-radius: 10px;
+                
+            }
+            .movetop{
+             
+                margin-top: -35px;
+                .cart{
+                 
+                    border:none;
+                    background-color:transparent;
+                    height:40px;
+                    border-radius: 5px;
+                    font-size: 33px;
+                    .icon1{
+                        font-size: 30px;
+                       
+                    }
+                }
+            }
+        }
+        .iteam{
+            display:flex;
+            margin-left: 25%;
+            margin-top: 50px;
+            gap:10%;
+            .img6{
+                border-radius:50%;
+                width:100px;
+                height:100px;
+            }
+            
+        }
+
+        /*coffee menu*/
+        .coffee{
+            margin-top: 5%;
+            margin-left: 10%;
+            width:80%;
+            height:350px;
+            gap:5%;
+            display:flex;
+            /*container height and all dimenions and induvival pasrt*/
+            .c1{
+                width:30%;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            
+                height:360px;
+                border-radius: 20px;
+                background-color: rgb(249, 231, 212);
+
+                .iteam1img{
+                    margin-left: 30%;
+                    width:120px;
+                    height:120px;
+                    border-radius: 50%;
+                }
+                h2{
+                    text-align: center;
+                }
+                p{
+                    margin-left: 30px;
+                    width:75%;
+                }
+                .costbutton{
+                    display:flex;
+                    margin-left: 5%;
+                    h3{
+                        width:100px;
+                    }
+                    button{
+                        margin: 10% 80%;
+                    
+                        width:100px;
+                        height:35px;
+                        border:none;
+                        border-radius: 10px;
+                        background-color: antiquewhite;
+                        color:black;
+                        border:1px solid black;
+                        cursor: pointer;
+
+                    }
+                    button:hover{
+                        background-color: rgb(4, 72, 4);
+                        color:white;
+                        
+                       
+                    }
+                }
+               
+            }
+        }
+        .carts{
+            
+            
+            width:80%;
+            margin-top: 100px;
+            margin-left: 12%;
+            .heading{
+                text-align: center;
+            }
+            .empty{
+                text-align: center;
+            }
+            
+            /*total container*/
+            .total{margin-top: 20px;
+            
+                width:100%;
+               
+                /*left side box*/
+                .cartdata{
+                    display:flex;
+                    
+                    gap:40px;
+                    border-radius: 10px;
+                    background-color: antiquewhite;
+                    width:100%;
+                    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                    .cartimg{
+                        width:100px;
+                        height:100px;
+                        border-radius: 50%;
+                        padding: 50px;
+                    }
+                    
+                    p{
+                        width:100%;
+                    }
+                    .plus{
+                        background-color: antiquewhite;
+                        border-radius:50%;
+                        margin-left: 10px;
+                    }
+                    span{
+                        padding-left: 10px;
+                    }
+                    .orbt{
+                        margin-left: -12px;
+                        height:30px;
+                        width:100px;
+                        border:1px solid black;
+                        background-color:antiquewhite;
+                        color:black;
+                        border-radius: 5px;
+                    }
+                    .orbt:hover{
+                        background-color: rgb(41, 70, 41);
+                        color:white;
+                  
+                       
+                    }
+                }
+            }
+        }
+    }
+    
+}
+
+@media(min-width:1400px){
+    .p4{
+        width:100%;
+        height:1200px;
+        /*all iteams*/
+        .iteam{
+            display:flex;
+            margin-left: 25%;
+            margin-top: 50px;
+            gap:10%;
+            .img6{
+                border-radius:50%;
+                width:100px;
+                height:100px;
+            }
+        }
+
+        /*coffee menu*/
+        .coffee{
+            margin-top: 5%;
+            margin-left: 10%;
+            width:80%;
+            height:400px;
+            gap:5%;
+            display:flex;
+            .c1{
+                width:30%;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            
+                height:350px;
+                border-radius: 20px;
+                background-color: rgb(249, 231, 212);
+
+                .iteam1img{
+                    margin-left: 30%;
+                    width:120px;
+                    height:120px;
+                    border-radius: 50%;
+                }
+                h2{
+                    text-align: center;
+                }
+                p{
+                    width:100%;
+                }
+                .costbutton{
+                    display:flex;
+                    margin-left: 10%;
+                   
+                    button{
+                        margin: 10% 80%;
+                    
+                        width:100px;
+                        height:35px;
+                        border:none;
+                        border-radius: 10px;
+                        background-color: rgb(4, 72, 4);
+                        color:white;
+
+                    }
+                }
+               
+            }
+        }
+
+
+        
+    }
+    
+}
