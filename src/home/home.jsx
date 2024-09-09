@@ -19,6 +19,7 @@ export default function Home() {
           <p className='content'>A warm croissant filled with scrambled eggs, crispy bacon, cheddar cheese, and a hint of spicy aioli. A perfect way to start your day!.</p>
           <p className='content'>Fluffy pancakes stacked high, drizzled with pure maple syrup, and topped with fresh fruits. Add a side of whipped cream for an extra treat!</p>
         </div>
+       
         {/*right side content*/}
         <div className='c1right'>
           <img className='img3'src='./img3.png' alt=''/>
