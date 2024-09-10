@@ -31,7 +31,9 @@ export default function Header() {
         setValue(!value)
     }
     const opening=(e)=>{
-        
+        if (value===true){
+            setValue(!value)
+        }
         setData(e)
     }
   return (

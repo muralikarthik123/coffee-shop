@@ -203,7 +203,9 @@
             }
             .hamburg{
                 display:none;
+                
             }
+            
             .lap{
                 display: block;
                  display:flex;
@@ -212,6 +214,8 @@
                     align-items: center;
                     margin-left: 35%;
             }
+           
+
             .close{
                 display:none;
             }
