@@ -28,7 +28,7 @@ export default function Header() {
     const [data,setData]=useState('home')
     const [value,setValue]=useState(false)
     const open=()=>{
-        setValue(!value)
+        setValue(true)
     }
     const opening=(e)=>{
         if (value===true){
