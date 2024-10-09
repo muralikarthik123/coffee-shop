@@ -140,7 +140,6 @@ export default function Contact() {
         {/*contact details*/}
         {/* eslint-disable-next-line jsx-a11y/no-distracting-elements*/}
         <marquee>---------------   For any problems please do contact karthik   -------------</marquee>
-
       </div>
     </div>
   )

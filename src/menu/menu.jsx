@@ -310,7 +310,7 @@ function App() {
             <img src={item.image} alt={item.name}  className='iteam1img'/>
             <br></br>
             <h2>{item.name} </h2>
-            <p >{item.data}</p>
+            <p>{item.data}</p>
             {/*cost ,add to cart button*/}
                 <div className='costbutton'>
                   <div>
